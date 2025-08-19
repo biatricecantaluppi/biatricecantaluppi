@@ -1,8 +1,13 @@
+<div align="center"> 
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ## Oii! Eu sou a Biatrice Cantaluppi
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🔭 Iniciação Científica, pesquisando otimização de arquiteturas de hardware utilizando a linguagem VHDL.
+- 🔭 Iniciação Científica, pesquisando otimização de arquiteturas de hardware utilizando a linguagem VHDL. <div align="right">
 
+![Estatísticas do GitHub de Biatrice Cantaluppi](https://github-readme-stats.vercel.app/api?username=biatricecantaluppi&show_icons=true&theme=radical) 
 
   ## Linguagens e Tecnologias
   
@@ -42,15 +47,3 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-![Estatísticas do GitHub de Biatrice Cantaluppi](https://github-readme-stats.vercel.app/api?username=biatricecantaluppi&show_icons=true&theme=radical) 
-</div>
-
