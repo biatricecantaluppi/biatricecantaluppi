@@ -7,8 +7,6 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🔭 Iniciação Científica, pesquisando otimização de arquiteturas de hardware utilizando a linguagem VHDL. <div align="right">
 
-![Estatísticas do GitHub de Biatrice Cantaluppi](https://github-readme-stats.vercel.app/api?username=biatricecantaluppi&show_icons=true&theme=radical) 
-
   ## Linguagens e Tecnologias
   
 <div>
