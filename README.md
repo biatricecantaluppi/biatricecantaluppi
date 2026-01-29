@@ -5,8 +5,7 @@
 ## Oii! Sou Biatrice Cantaluppi
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🔭 Iniciação Científica, pesquisando otimização de arquiteturas de hardware. <div align="right"
-
+- 🔭 Iniciação Científica, pesquisando otimização de arquiteturas de hardware.
 ###
 
 <br clear="both">
