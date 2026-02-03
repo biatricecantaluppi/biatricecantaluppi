@@ -1,4 +1,23 @@
 <p align="center">
+  <img src="banner_github_biatrice.gif" alt="Biatrice Cantaluppi — Analista de Dados em Evolução" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
   <img src="banner-principal.png" />
 </p>
 
