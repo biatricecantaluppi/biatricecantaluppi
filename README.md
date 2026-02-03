@@ -62,6 +62,4 @@ Dashboard interativo desenvolvido em Python com Streamlit para explorar dados sa
 <img src="graficos2.png" width="1000"/>
 
 
-
-📫 Vamos conversar?  
 [LinkedIn](www.linkedin.com/in/biatrice) | ✨ Obrigada por visitar meu perfil!
