@@ -1,30 +1,41 @@
 <p align="center">
-  <img src="banner.png" />
+  <img src="banner-principal.png" />
 </p>
 
 <h1 align="center">Olá, eu sou a Biatrice 👋</h1>
-
-<p align="center">
-  Sou estudante da área de tecnologia e estou me desenvolvendo como Analista de Dados, com foco em:
-  
-- Python para análise de dados  
-- SQL para consulta e organização de informações  
-- Visualização de dados 
-</p>
-
----
 
 ## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
-## 📌 Objetivo
+📂 Projetos em Destaque
 
-Construir um portfólio sólido na área de dados e conquistar minha primeira oportunidade como Analista de Dados.
+### 📊 Análise de Salários na Área de Dados
+Dashboard interativo desenvolvido em Python com Streamlit para explorar dados salariais.
 
----
+🔧 Tecnologias: Python, Pandas, Streamlit  
+📈 Destaques:
+- Filtros por cargo e país  
+- Gráficos interativos  
+- Análise exploratória dos dados  
+
+<img src="graficos.png" width="1000"/>
+
+
+<img src="graficos2.png" width="1000"/>
+
+
+
+
+
+
+
+
+
+
+
+
 
 ✨ Obrigada por visitar meu perfil!
