@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="banner_github_biatrice_micro_data.gif" alt="Biatrice Cantaluppi — Analista de Dados em Evolução" />
+  <img src="banner_github_biatrice_micro_data.gif" alt="Biatrice Cantaluppi — Analista de Dados em Formação" />
 </p>
 
 <h1 align="center">Olá, eu sou a Biatrice 👋</h1>
 
 <p align="center">
-Analista de Dados em Evolução • Python • SQL • Análise Exploratória
+Análise de Dados • Python • Análise Exploratória
 </p>
 
 ---
 
 ##  ⭐ Sobre mim
 
-Sou uma **Analista de Dados em evolução**, com foco em transformar dados em informações claras e acionáveis.  
+Sou uma **Analista de Dados em Formação**, com foco em transformar dados em informações claras.  
 Tenho interesse especial em **análise exploratória**, **organização de dados**, **visualização** e **resolução de problemas com base em dados**.
 
-Atualmente, estudo e aplico conceitos de **Python para análise de dados**, **SQL**, estatística básica e boas práticas de organização e documentação de projetos.
+Atualmente, estudo e aplico conceitos de **Python para análise de dados**, estatística básica e boas práticas de organização e documentação de projetos.
 
 Busco oportunidades para aprender, colaborar e evoluir continuamente na área de dados.
 
@@ -23,7 +23,7 @@ Busco oportunidades para aprender, colaborar e evoluir continuamente na área de
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** Python, SQL  
+- **Linguagens:** Python  
 - **Bibliotecas:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Conceitos:**  
   - Análise Exploratória de Dados (EDA)  
